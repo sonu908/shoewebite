@@ -1,0 +1,114 @@
+body{
+    background-color: #f6f6f6;
+}
+header 
+{
+    border-radius: 10px;
+    width: 100%;
+    background-color: black;
+    text-align: right;
+    height: 60px;
+}
+#top
+{
+   
+    text-decoration: none;
+    color: azure;
+}
+.topp
+{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    display: inline;
+    margin-right: 17px;
+}
+i
+{
+margin-right: 1330px;
+}
+#brand
+{
+    font-family: 'Press Start 2P', cursive;   
+    text-align: center;
+}
+input
+{
+    color: white;
+    padding-left: 19px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 19px;
+    height: 35px;
+    width: 380px;
+   margin-right: 550px;
+}
+#imge
+{
+    margin-top: 150px;
+    width:100%;
+    border-radius: 20px;
+}
+h3
+{
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+.new
+{
+    display: flex;
+
+}
+.na:hover
+{
+    padding: 10px;
+}
+.hov:hover
+{
+    border: 5px solid #555;
+}
+.btm
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.hovt
+{
+    margin-top: 90px;
+}
+.hovt:hover
+{
+    border: 5px solid #555;
+}
+label
+{
+    margin-left: 720px;
+    font-family: 'Cinzel', serif;
+    border-radius: 6px;
+    padding: 12px;
+    color: #f6f6f6;
+    background-color: #555;
+}
+#bottom
+ {
+ width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+ }
+ .b
+ {
+   color: #f6f6f6;
+    font-family: 'Cinzel', serif;
+    padding-top: 15px;
+    font-size: 16px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+ }
+ #ftr a
+ {
+    list-style: none;
+    text-decoration: none;
+ }
+.b:hover
+{
+    font-size: 20px;
+}
